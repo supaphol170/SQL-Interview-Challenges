@@ -25,4 +25,4 @@ In these scripts, I have applied advanced SQL techniques to solve complex busine
 The SQL files are organized by company name. Inside each file, you will find the business question as a comment, followed by the optimized SQL query.
 
 ---
-*Disclaimer: All questions are sourced from [interviewmaster.ai/advent](https://www.interviewmaster.ai/advent). Solutions are written by me as part of my continuous learning journey.*
+*Disclaimer: All questions are sourced from [interviewmaster.ai](https://www.interviewmaster.ai). Solutions are written by me as part of my continuous learning journey.*
